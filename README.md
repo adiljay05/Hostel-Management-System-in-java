@@ -1,5 +1,6 @@
 # Hostel-Management-System-in-java
-This is a small hostel management system. The front end is designed in html and the back-end is accomplished with java servlets. 
+This is a small hostel management system. The front end is designed in html and the back-end is accomplished with java servlets. <br><br><br>
+**  To use this system, you must have tomcat and mysql configured on your computer **
 <br>This system contains
 <br>1.  Record of students along with their address, phone number, name, roll number and their room number which is to be alloted.<br>
 2.  Add new student.<br>
